@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(#f5d1b8 , #f0a169 , #f0853a , #f5761b , #ff6a00 );
+}
+h1{
+  color:red;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 50px;
+  margin-left: 450px;
+}
+#lable, #confidence{
+    font-family: 'Roboto Slab', serif;
+}
+#show_sketch{
+    margin-left: 300px;
+
+}
